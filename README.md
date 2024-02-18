@@ -1,1 +1,2 @@
-# codingProblems
+*.vscode
+*.dSYM
